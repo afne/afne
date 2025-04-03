@@ -1,5 +1,5 @@
 # About Me:
-Electrical Engineering and Computer Science @ Queensland University of Technology<br><br>IT/Toolkit Support @ Kitney Toolkit<br>
+⚙️ Electrical Engineering and Computer Science @ Queensland University of Technology<br><br>👨‍💻 IT/Toolkit Support @ Kitney Toolkit<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aidanjwilson) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aidan-w) 

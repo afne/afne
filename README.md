@@ -15,12 +15,8 @@ Electrical Engineering and Computer Science @ Queensland University of Technolog
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afne&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=afne&theme=github_dark)](https://git.io/streak-stats)
-
 </div>
 
----
-[![](https://visitcount.itsvg.in/api?id=afne&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

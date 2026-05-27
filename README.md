@@ -1,4 +1,4 @@
-#  👶 About Me:
+#  About Me:
 ⚙️ Electrical Engineering and Computer Science @ Queensland University of Technology<br><br>👨‍💻 IT/Toolkit Support @ Kitney Toolkit<br>
 
 ## 🌐 Socials:
